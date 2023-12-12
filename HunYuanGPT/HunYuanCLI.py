@@ -37,7 +37,7 @@ class ChatBotCLI(ChatBot):
         elif command == "/clear":
             print("Are you sure to clear all conversations? (y/n)")
             if input() == "y":
-                self.clear_all_conversations(chatType=value[0])
+                self.clear_all_conversations()
                 print("All conversations cleared.")
                 self._create_conversation()
         elif command == "/list":
