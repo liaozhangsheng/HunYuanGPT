@@ -8,11 +8,11 @@ _混元大模型逆向api_
 
 </div>
 
-<!-- ## 安装模块
+## 安装模块
 
 ```bash
 pip install HunYuanGPT --upgrade
-``` -->
+```
 
 ## 获取cookie
 
